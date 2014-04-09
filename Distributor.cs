@@ -12,6 +12,8 @@ namespace SDK.IT.Core.Domain.Business
         Entrepreneur,
         Customer
     }
+	
+	//comments added just to make some changes.
 
     public abstract class Distributor : BaseEntity
     {
